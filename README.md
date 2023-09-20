@@ -2,9 +2,6 @@
 
 <p>Тестовое задание на разарботку ToDo списка на Laravel с использованием  PHP, на фронте JS / jQuery. Для элементов интерфейса - Bootstrap.</p>
 
-<p>Готовый проект можно посмотреть по ссылке:</p>
-<p><a href="https://todo.wallps.fun/public/index.php">https://todo.wallps.fun/public/index.php</a></p>
-
 <p>Инструкция по установке и запуску на сервере:</p>
 <p>
   <ul>
